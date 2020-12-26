@@ -66,4 +66,5 @@ void Start()
 	{
 		std::cout << "Error: " << error << '\n';
 	}
+	delete p_4;
 }
